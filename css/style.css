@@ -32,8 +32,8 @@ h1 {
 
 img {
   border: 5px rgb(152,173,166) solid;
-  margin-right: 
-  margin-left: 
+  margin-right: auto;
+  margin-left: auto;
 }
 
 h2 {
