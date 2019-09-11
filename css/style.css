@@ -34,6 +34,7 @@ h1 {
   border: 5px rgb(152,173,166) solid;
   margin: auto;
   display: block;
+  text-align: center;
 }
 
 h2 {
