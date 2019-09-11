@@ -26,10 +26,12 @@ h1 {
   font-size: 5em;
   font-weight: bold;
   font-family: 'Times New Roman', serif; 
-  border-top: : 1px solid #ccc;
+  
 }
 
-
+figure img {
+  border-top: : 1px solid #ccc;
+}
 
 h2 {
   color: rgb(152,173,166);
