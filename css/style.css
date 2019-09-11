@@ -44,7 +44,7 @@ section p {
   font-size: 1em;
 }
 
-.press img {
+#featured img {
   border: 5px #ccc solid;
   padding: 1px;
 }
