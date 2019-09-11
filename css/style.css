@@ -31,7 +31,8 @@ h1 {
 }
 
 img {
-  border: 5px rgb(152,173,166) solid;
+  border: 5px 
+  color: rgb(152,173,166) solid;
 }
 
 h2 {
